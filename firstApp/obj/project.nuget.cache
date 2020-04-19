@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UiadC+WkHgpQULDJkkScTY6LBa067Xn46Kgbj3Ub+mXEZozFVQpXSKzUJPorO5ppzuqxKXfUHPibz5VMe9mv2w==",
+  "success": true,
+  "projectFilePath": "/Users/daniel/workspace/learning-fsharp/firstApp/firstApp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/daniel/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
